@@ -1,0 +1,7 @@
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\bin\Debug\InventorLogger1.dll
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\bin\Debug\InventorLogger1.pdb
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\bin\Debug\.xml
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\obj\Debug\InventorLogger1.dll
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\obj\Debug\.xml
+C:\Users\jg13910\Inventor Add-ins\InventorLogger1\InventorLogger1\obj\Debug\InventorLogger1.pdb
