@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="InventorLogger1" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{43940efe-7931-4e2a-8e3c-707b4ef86b1c}" progid="InventorLogger1.StandardAddInServer" threadingModel="Both" name="InventorLogger1.InventorLogger1.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="InventorLogger1.dll" hashalg="SHA1"></file>
+
+</assembly>
